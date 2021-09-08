@@ -1,0 +1,110 @@
+/* Colors and fonts */
+body {
+	background: rgb(246, 246, 246);
+	color: teal;
+	font-family: helvetica;
+	font-size: 17px;
+	margin-right: 200px;
+	margin-left: 200px;
+	text-align: center;
+}
+
+h1 {
+	color: teal;
+}
+
+h2 {
+	color: teal;
+	font-family: helvetica;
+	font-size: 23px;
+	font-weight: bolder;
+}
+
+h3 {
+	color: rgb(90, 90, 90);
+	font-family: helvetica;
+}
+
+h4 {
+	color: rgb(105, 105, 105);
+	font-family: helvetica;
+	
+}
+
+p {
+	color: cadetblue;
+}
+
+.complete {
+	background-color: rgb(230, 230, 230);
+}
+
+.card-white {
+	background-color: rgb(200, 200, 200);
+	padding: 30px;
+	color: rgb(90, 90, 90);
+	width: 500px;
+	margin: auto;
+	text-align: center;
+	box-shadow: 10px 10px 10px;
+}
+
+.presentation {
+	background-color: rgb(200, 200, 200);
+	padding: 30px;
+	width: 800px;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 10px 10px;
+}
+
+.exp-pro {
+	background-color: rgb(200, 200, 200);
+	padding: 30px;
+	width: 800px;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 10px 10px;
+}
+
+.compétences {
+	background-color: rgb(200, 200, 200);
+	padding: 30px;
+	width: 800px;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 10px 10px;
+}
+
+.formations {
+	background-color: rgb(200, 200, 200);
+	padding: 30px;
+	width: 800px;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 10px 10px;
+}
+
+.autresexp {
+	background-color: rgb(200, 200, 200);
+	padding: 30px;
+	width: 800px;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 10px 10px;
+}
+
+.interets {
+	background-color: rgb(200, 200, 200);
+	padding: 30px;
+	width: 800px;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 10px 10px;
+}
